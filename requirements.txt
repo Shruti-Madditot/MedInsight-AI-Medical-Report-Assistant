@@ -1,0 +1,13 @@
+langchain==0.2.17
+langchain-community==0.2.19
+langchain-core==0.2.43
+langchain-groq
+sentence-transformers
+faiss-cpu
+pypdf
+huggingface-hub
+transformers
+torch
+numpy==1.26.4
+pandas==2.2.2
+ipywidgets
